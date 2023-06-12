@@ -18,7 +18,7 @@ let quotes  = [
     {
         quote: '"Stand up such you never give up:)"',
         person:"Tatiana Manaois" 
-    }
+    },
     {
         quote: '"Never give regret a chance:)"',
         person:"Timothy Mwangi" 
