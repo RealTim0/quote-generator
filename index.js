@@ -4,20 +4,24 @@ let btn = document.querySelector(".new-quote")
 
 let quotes  = [
     {
-        quote: 'love yourself',
+        quote: '"Love yourself DUDE"',
         person:"Jesus Christ" 
     },
     {
-        quote: 'wake up and push yourself to achieve more',
-        person:"Three men army" 
+        quote: '"Wake up and push yourself to achieve more."',
+        person:"Three Men Army" 
     },
     {
-        quote: 'obey my commandments and keep the sabbath day holy ',
+        quote: '"Obey my commandments and keep the sabbath day holy !"',
         person:"God Almighty" 
     },
     {
-        quote: 'stand up such you never give up',
-        person:"tatiana manaois" 
+        quote: '"Stand up such you never give up:)"',
+        person:"Tatiana Manaois" 
+    }
+    {
+        quote: '"Never give regret a chance:)"',
+        person:"Timothy Mwangi" 
     }
 ]
  btn.addEventListener("click", function btnclick(){
